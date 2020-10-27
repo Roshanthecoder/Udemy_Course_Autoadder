@@ -1,0 +1,4 @@
+access_token||client id
+
+
+#you will get above both file from the udemy website while you login into your udemy account by inspect and application setting.
